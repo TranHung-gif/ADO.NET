@@ -1,0 +1,29 @@
+H:\DNTU\Web Programming\Bai 27.8\bin\Debug\net8.0\appsettings.Development.json
+H:\DNTU\Web Programming\Bai 27.8\bin\Debug\net8.0\appsettings.json
+H:\DNTU\Web Programming\Bai 27.8\bin\Debug\net8.0\Bai_27.8.staticwebassets.runtime.json
+H:\DNTU\Web Programming\Bai 27.8\bin\Debug\net8.0\Bai_27.8.exe
+H:\DNTU\Web Programming\Bai 27.8\bin\Debug\net8.0\Bai_27.8.deps.json
+H:\DNTU\Web Programming\Bai 27.8\bin\Debug\net8.0\Bai_27.8.runtimeconfig.json
+H:\DNTU\Web Programming\Bai 27.8\bin\Debug\net8.0\Bai_27.8.dll
+H:\DNTU\Web Programming\Bai 27.8\bin\Debug\net8.0\Bai_27.8.pdb
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\Bai 27.8.GeneratedMSBuildEditorConfig.editorconfig
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\Bai 27.8.AssemblyInfoInputs.cache
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\Bai 27.8.AssemblyInfo.cs
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\Bai 27.8.csproj.CoreCompileInputs.cache
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\Bai_27.8.MvcApplicationPartsAssemblyInfo.cache
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\staticwebassets.build.json
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\staticwebassets.development.json
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\staticwebassets\msbuild.Bai_27.8.Microsoft.AspNetCore.StaticWebAssets.props
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\staticwebassets\msbuild.build.Bai_27.8.props
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bai_27.8.props
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bai_27.8.props
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\staticwebassets.pack.json
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\scopedcss\bundle\Bai_27.8.styles.css
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\scopedcss\projectbundle\Bai_27.8.bundle.scp.css
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\Bai_27.8.dll
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\refint\Bai_27.8.dll
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\Bai_27.8.pdb
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\Bai 27.8.genruntimeconfig.cache
+H:\DNTU\Web Programming\Bai 27.8\obj\Debug\net8.0\ref\Bai_27.8.dll
